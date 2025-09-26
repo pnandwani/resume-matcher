@@ -1,0 +1,11 @@
+[
+  {
+    "resume_path": "data/resumes/NandwaniPriyanka_EY_Grad2025.docx",
+    "cosine_similarity": 0.0476,
+    "coverage_score": 1.0,
+    "coverage_hits": 37,
+    "coverage_total_terms": 150,
+    "final_score": 0.4285,
+    "jd_path": "data/jds/jobdescription.txt"
+  }
+]

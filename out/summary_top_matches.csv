@@ -1,0 +1,2 @@
+resume_path,cosine_similarity,coverage_score,coverage_hits,coverage_total_terms,final_score,jd_path
+data/resumes/NandwaniPriyanka_EY_Grad2025.docx,0.0476,1.0,37,150,0.4285,data/jds/jobdescription.txt

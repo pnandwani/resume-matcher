@@ -1,0 +1,23 @@
+About the job
+Overview:
+
+ A lead defense contractor that specializes in autonomous unmanned systems is seeking an Embedded Linux Application Developer to support development of onboard flight software for their aircraft(s). This role focuses on real-time, embedded software that runs directly on high-end onboard systems, providing critical data to both the autopilot and ground control systems. This is not a ground station or traditional application software role — it's core to autonomy and onboard intelligence. This role is paying between ($136,807 - $194,040) depending on years of experience. 
+
+Key Responsibilities:
+
+Develop, integrate, and maintain embedded Linux applications that support autonomous operations onboard aircraft.
+Work with flight development boards that simulate loitering munition avionics systems for software development and testing.
+Write software targeting systems based on NXP i.MX8 or NVIDIA processors (ARM or ARM+CUDA architectures).
+Develop in C++ within a Linux environment; strong emphasis on modern, maintainable C++ code.
+Use tools like GitLab and GitHub to manage version control, CI/CD pipelines, and automated testing using runners for continuous integration and rigorous software validation.
+Collaborate with autonomy, avionics, and software engineering teams to deliver reliable and efficient onboard capabilities.
+Qualifications:
+
+5–7 years of experience developing in C++; Proficiency with modern software development tools (Git) 
+Experience with embedded Linux environments; Development for ARM-based platforms (e.g., i.MX8, NVIDIA Jetson)
+Experience with the Robot Operating System (ROS2); Knowledge of ROS domain concepts and best practices
+Understanding of flight software or real-time systems
+Proficiency with Docker, containers, and virtual environments
+Experience with GitLab/GitHub CI pipelines is highly desirable.
+Ability to work in a fast-paced, multidisciplinary engineering environment.
+
